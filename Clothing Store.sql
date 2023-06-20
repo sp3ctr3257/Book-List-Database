@@ -18,3 +18,15 @@ INSERT INTO clothing_store VALUES (15, "Sweatpants", "Pink", 13, "cotton/polyest
 SELECT price, material, item 
 FROM clothing_store
 ORDER BY price DESC;
+
+/* Clothing-Store
+In this project I designed my own clothing store by creating a table, inserting values in that table, 
+and then selecting data from the table to make connections between the data 
+(for example, quality and price.)
+
+PROJECT INSTRUCTIONS:
+Create your own store! Your store should sell one type of things, like clothing or bikes, 
+whatever you want your store to specialize in. You should have a table for all the items 
+in your store, and at least 5 columns for the kind of data you think you'd need to store. 
+You should sell at least 15 items, and use select statements to order your items by price 
+and show at least one statistic about the items. *\
