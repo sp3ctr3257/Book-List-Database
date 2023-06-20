@@ -1,2 +1,2 @@
-Khan-Academy-SQL
+# Khan-Academy-SQL
 All of my Khan Academy SQL projects
