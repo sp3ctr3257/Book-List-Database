@@ -1,4 +1,4 @@
-# Design-A-Store
+# Clothing-Store
 In this project I designed my own clothing store by creating a table, inserting values in that table, and then selecting data from the table to make connections between the data (for example, quality and price.)
 
 PROJECT INSTRUCTIONS:
